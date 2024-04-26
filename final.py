@@ -19,7 +19,7 @@ draw.text((50, 150), day_str, font=font, fill='white')
 img.save(f'{date_str}.png')
 
 #Uploading to Instagram
-username = 'calendardude.pro'
+username = 'calendardude.pro' #your username
 password = 'my password'
 secret_key = ''
 
